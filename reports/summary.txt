@@ -1,0 +1,22 @@
+
+Customer Satisfaction Prediction — Short Report
+----------------------------------------------
+Dataset rows used: 2769
+Target distribution (satisfied=1):
+satisfied
+0    1682
+1    1087
+
+Model used: best_grid
+Evaluation (classification_report):
+              precision    recall  f1-score   support
+
+           0       0.61      0.56      0.58       337
+           1       0.39      0.43      0.41       217
+
+    accuracy                           0.51       554
+   macro avg       0.50      0.50      0.50       554
+weighted avg       0.52      0.51      0.52       554
+
+
+ROC AUC (if available): 0.5021400538773947
