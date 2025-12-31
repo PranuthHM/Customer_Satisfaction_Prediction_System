@@ -4,3 +4,14 @@ matplotlib
 seaborn
 streamlit
 plotly
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
+gdown
+scipy
+nltk
+transformers
